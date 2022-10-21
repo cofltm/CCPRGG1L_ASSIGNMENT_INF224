@@ -29,7 +29,7 @@ public class Assignment2 {
 
         // char array in reverse
 
-        for (int counter = 5; counter >= 0; counter--) {
+        for (int counter = 6; counter >= 0; counter--) {
             System.out.println(myFirstName[counter]);
       }
     }
